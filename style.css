@@ -11,13 +11,16 @@
     align-items: center;
 
 }
+    #nav-header img {
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 1%;
+    }
 
 .brand-name {
-    flex: 50%;
+    flex: 49%;
 }
-    .brand-name h1 {
-        padding-left: 40px;
-    }
+
     .brand-name span {
         color: white;
     }
